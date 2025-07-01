@@ -1,6 +1,6 @@
 Selam, ben lasher.
 
-# ✨ Neva Development – Discord Oynuyor Sistemi (Rich Presence)
+# ✨ Neva Development – Discord Button Clicker Sistemi
 
 **Neva Development** - Discord Button Click Sistemi, Discord'da herhangi ismi belirlenen butona otomatik kullanılır. 
 ---
